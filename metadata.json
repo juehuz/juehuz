@@ -1,0 +1,5 @@
+{
+  "name": "Polyglot AI Platform",
+  "description": "Enterprise-grade translation platform supporting multi-model AI (Gemini, GPT, Claude) with modular architecture.",
+  "requestFramePermissions": []
+}
